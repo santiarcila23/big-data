@@ -31,7 +31,7 @@ cualquier integrante que lo ejecute debe obtener exactamente los mismos números
 
 ## Resultados principales
 
-**Regresión** — predicción del precio exacto (métricas sobre el conjunto de prueba, en rupias):
+**Regresión**  predicción del precio exacto (métricas sobre el conjunto de prueba, en rupias):
 
 | Modelo | RMSE | R² |
 |---|---|---|
