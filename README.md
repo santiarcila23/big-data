@@ -1,6 +1,6 @@
 # Análisis y Predicción de Precios de Vehículos Usados
 
-**Integrantes:** Natalia Flores Pérez, Santiago Arcila Gutiérrez, Alejandro Restrepo Uribe
+**Integrantes:** Natalia Florez Pérez, Santiago Arcila Gutiérrez, Alejandro Restrepo Uribe
 
 Proyecto del curso de Big Data — Institución Universitaria de Envigado (GITESI)
 Dataset: *Vehicle Dataset from CarDekho* (`Car details v3.csv`), tomado de
